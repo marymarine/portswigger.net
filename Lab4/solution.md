@@ -1,7 +1,10 @@
-Зайдем на сайт.<br/><br/>
+Зайдем в любую категорию.<br/><br/>
 <img src="screenshot1.png"> <br/><br/>
-Выберем любую категорию (не по умолчанию).<br/><br/>
+Убедимся, что количество столбцов равно 3, как и в Lab3.<br/><br/>
 <img src="screenshot2.png"> <br/><br/>
-Путем перебора количества NULL в запросе типа 'UNION SELECT NULL, NULL, ... NULL-- получаем количество столбцов (равное количеству NULL).<br/><br/>
+Далее подставляем нужную нам строчку (в данном случае '9dzlxj') вместо каждого из NULL.<br/>
+'UNION SELECT '9dzlxj', NULL, NULL-- <br/><br/>
 <img src="screenshot3.png"> <br/><br/>
-В данном случае их 3.
+'UNION SELECT ', NULL, 9dzlxj', NULL-- <br/>
+Нам подошел второй столбец.<br/><br/>
+<img src="screenshot4.png">
