@@ -1,6 +1,6 @@
 Заходим на сайт, выбираем статью и нажимаем "View post".<br/><br/>
 <img src="screenshot1.png"> <br/><br/>
-Оставляем комментарий и перехватываем запрос с помощью Burp.
+Оставляем комментарий и перехватываем запрос с помощью Burp.<br/><br/>
 <img src="screenshot2.png"> <br/><br/>
 Отправляем запрос в Repeater.<br/><br/>
 <img src="screenshot3.png"> <br/><br/>
