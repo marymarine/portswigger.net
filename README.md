@@ -1,6 +1,6 @@
 <h1>SQL injection</h1>
-Lab 1: <a href="https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data">SQL injection vulnerability in WHERE clause allowing retrieval of hidden data</a>
-Lab 2: <a href="https://portswigger.net/web-security/sql-injection/lab-login-bypass">SQL injection vulnerability allowing login bypass</a>
+Lab 1: <a href="https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data">SQL injection vulnerability in WHERE clause allowing retrieval of hidden data</a>\\
+Lab 2: <a href="https://portswigger.net/web-security/sql-injection/lab-login-bypass">SQL injection vulnerability allowing login bypass</a>\\
 <h1>SQL injection UNION attacks</h1>
 Lab 3: <a href="https://portswigger.net/web-security/sql-injection/union-attacks">SQL injection UNION attack, determining the number of columns returned by the query</a>
 Lab 4: <a href="https://portswigger.net/web-security/sql-injection/union-attacks/lab-find-column-containing-text">SQL injection UNION attack, finding a column containing text</a>
