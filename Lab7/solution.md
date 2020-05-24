@@ -4,7 +4,7 @@
 <img src="screenshot2.png"> <br/><br/>
 Отправляем запрос в Repeater.<br/><br/>
 <img src="screenshot3.png"> <br/><br/>
-Изменяем запрос, отправляем его на сайт и получаем ответ.<br/><br/>
+Изменяем запрос, отправляем его и получаем ответ.<br/><br/>
 <img src="screenshot4.png"><br/><br/>
 Profit :)<br/><br/>
 <img src="screenshot5.png"><br/><br/>
